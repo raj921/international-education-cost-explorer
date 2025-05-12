@@ -1,0 +1,20 @@
+[project]
+title = "International Education Cost Explorer"
+version = "0.1.0"
+port = 8501
+slug = "education-cost-explorer"
+entrypoint = "main.py"
+
+[branding]
+name = "EduCost"
+logo = "images/logo.png"
+favicon = "images/favicon.ico"
+primaryColor = "#0077cc"
+
+[data.International_Education_Costs]
+type = "csv"
+path = "data/International_Education_Costs.csv"
+
+[logging]
+level = "INFO"
+format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
