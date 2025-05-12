@@ -17,12 +17,10 @@ The International Education Cost Explorer provides a clear visual and tabular br
 Get started with the app in a few simple steps:
 
 1.  **Clone or Upload the Project:**
-    Begin by creating a new project on the Preswald platform or by downloading this app if it's available on GitHub.
-    * **Note:** For the best user experience, it's recommended to use **Google Chrome** 🧑‍💻.
+    You can start by creating a new project on the Preswald platform or by downloading this app if it's available on GitHub.
 
 2.  **Upload Your Dataset:**
     Provide the app with your data! Upload a CSV file containing information about tuition costs and living expenses.
-    * You're welcome to use any dataset you prefer (e.g., from Kaggle or other open data sites).
     * A sample dataset called `International Education Costs` is typically used to demonstrate the app's capabilities.
 
 3.  **Filter the Data (Automatic):**
@@ -36,13 +34,9 @@ Get started with the app in a few simple steps:
 
 ## Features
 
-* **Table:** Clearly lists all countries with tuition costs above $10,000.
+* **Table:** lists all countries with tuition costs above $10,000.
 * **Graph:** A compelling scatter plot visually compares tuition and living costs.
 * **Customizable:** Personalize the app by changing the title, logo, and color scheme directly from the settings.
-
-## Customizing the App
-
-Want to give the app a personal touch? You can easily customize its appearance:
 
 * Change the primary title of the application.
 * Update the favicon (the small icon displayed in your browser tab).
@@ -50,8 +44,4 @@ Want to give the app a personal touch? You can easily customize its appearance:
 
 All these customization options are available within the app's settings.
 
-## Publish Your App
 
-Once you're satisfied with your customized International Education Cost Explorer, simply hit the **Publish** button to share it with the world! 🎉
-
-If you encounter any issues with publishing, don't worry! Just save your project, upload it to your GitHub repository, and send me the link. 👍
