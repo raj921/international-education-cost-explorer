@@ -1,37 +1,57 @@
-International Education Cost Explorer
-Hey! 👋 Welcome to the International Education Cost Explorer! If you're curious about how much it costs to study abroad, this app helps you explore and compare tuition and living costs from different countries. 🌍💰
+# International Education Cost Explorer 🌍💰
 
-What is this app?
-This app shows you:
+## Hey! 👋 Welcome to the International Education Cost Explorer!
 
-A scatter plot (fancy word for a graph) that compares Tuition Costs with Living Expenses across countries.
+Are you curious about the financial aspects of studying abroad? This interactive app is designed to help you explore and compare tuition and living costs across various countries, making your study abroad planning a breeze!
 
-A table of countries where tuition costs are above $10,000.
+## What is this App?
 
-All of this is interactive so you can explore the data easily!
+The International Education Cost Explorer provides a clear visual and tabular breakdown of international education expenses:
 
-How to use it
-1. Clone or Upload the Project
-You can start by creating a new project on the Preswald platform or download this app if it’s available on GitHub. Make sure you use Google Chrome for the best experience! 🧑‍💻
+* **Scatter Plot:** A dynamic graph comparing **Tuition Costs** with **Living Expenses** across different countries. This "fancy word for a graph" helps you visualize cost relationships.
+* **Interactive Table:** A clear table listing countries where **tuition costs are above $10,000**, allowing you to focus on significant expenses.
+* **Interactive Experience:** All elements are interactive, enabling easy data exploration.
 
-2. Upload Your Dataset
-Upload a CSV file that has information about tuition costs and living expenses. You can use any dataset you like (maybe from Kaggle or any open data site).
+## How to Use It
 
-Here, we’re using a sample dataset called International Education Costs that has the info you need.
+Get started with the app in a few simple steps:
 
-3. Filter the Data
-The app will automatically show countries where tuition costs are above $10,000. It filters out anything less than that so you can focus on the bigger expenses.
+1.  **Clone or Upload the Project:**
+    Begin by creating a new project on the Preswald platform or by downloading this app if it's available on GitHub.
+    * **Note:** For the best user experience, it's recommended to use **Google Chrome** 🧑‍💻.
 
-4. See the Graph
-Once the data is filtered, it will show you a scatter plot. This is a chart where each point represents a country, and the chart helps you see how tuition and living costs compare in different places.
+2.  **Upload Your Dataset:**
+    Provide the app with your data! Upload a CSV file containing information about tuition costs and living expenses.
+    * You're welcome to use any dataset you prefer (e.g., from Kaggle or other open data sites).
+    * A sample dataset called `International Education Costs` is typically used to demonstrate the app's capabilities.
 
-5. Look at the Table
-Under the graph, you’ll also see a table that lists all the countries with tuition costs greater than $10,000. You can scroll through and compare them.
+3.  **Filter the Data (Automatic):**
+    The app intelligently filters your data. It will automatically display only countries where tuition costs are **above $10,000**, helping you concentrate on higher expense regions. Costs less than this amount are filtered out.
 
-Features
-Table: Lists all the countries with tuition above $10,000.
+4.  **See the Graph:**
+    Once your data is filtered, a **scatter plot** will be generated. Each point on this chart represents a country, allowing you to easily see how tuition and living costs compare in different global locations.
 
-Graph: A scatter plot comparing tuition and living costs.
+5.  **Look at the Table:**
+    Below the graph, you'll find an interactive table. This table lists all the countries with tuition costs greater than $10,000. You can scroll through it to conveniently compare expenses across different nations.
 
-Customizable: You can change things like the app title, logo, and colors in the settings.
+## Features
 
+* **Table:** Clearly lists all countries with tuition costs above $10,000.
+* **Graph:** A compelling scatter plot visually compares tuition and living costs.
+* **Customizable:** Personalize the app by changing the title, logo, and color scheme directly from the settings.
+
+## Customizing the App
+
+Want to give the app a personal touch? You can easily customize its appearance:
+
+* Change the primary title of the application.
+* Update the favicon (the small icon displayed in your browser tab).
+* Modify the color scheme or add a unique logo (for those who want to get fancy! 🎨).
+
+All these customization options are available within the app's settings.
+
+## Publish Your App
+
+Once you're satisfied with your customized International Education Cost Explorer, simply hit the **Publish** button to share it with the world! 🎉
+
+If you encounter any issues with publishing, don't worry! Just save your project, upload it to your GitHub repository, and send me the link. 👍
